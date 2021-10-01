@@ -3,7 +3,17 @@ guid: 4f466928ac413934a8ffb7f72579863a
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleach_Cap
+    second: {fileID: 2100000, guid: 7588076fdb642774d9df4f35b70e9390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleach_Container
+    second: {fileID: 2100000, guid: 76fbde78f4cd0cc4fa305dc726762c93, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
